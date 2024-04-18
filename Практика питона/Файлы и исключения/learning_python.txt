@@ -1,0 +1,3 @@
+In Python yoy can created classes
+In Python yoy can created tuples
+In Python yoy can created function
