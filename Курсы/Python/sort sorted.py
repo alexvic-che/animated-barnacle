@@ -15,14 +15,18 @@
 #
 #
 # d = {'cat': 'кот', 'horse': 'лошадь', 'tree': 'дерево', 'dog': 'собака', 'book': 'книга'}
-# print(get_sort(d))
+# # print(get_sort(d))
+#
+# s = [int(x) for x in input().split()]
+#
+# se = set(s)
+#
+# s = sorted(se, reverse=True)
+#
+# print(*s[:4])
 
-s = [int(x) for x in input().split()]
-
-se = set(s)
-
-s = sorted(se, reverse=True)
-
-print(*s[:4])
 
 
+s = "asdasdasd adasd asda"
+lst = list(s.split())
+print(lst)
